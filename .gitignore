@@ -1,0 +1,16 @@
+# names created by infra/setup.sh (personal to each student)
+infra/lab.env
+# outputs created while doing the lab
+ROC-Curve.png
+mlruns/
+outputs/
+# python / jupyter / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.azureml/
+.amlignore

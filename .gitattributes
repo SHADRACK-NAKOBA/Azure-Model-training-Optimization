@@ -1,0 +1,4 @@
+# Shell scripts must keep Linux line endings to run in Cloud Shell
+*.sh text eol=lf
+# Never alter the dataset files
+data/** -text
